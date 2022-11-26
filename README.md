@@ -5,7 +5,7 @@ Repositório para armazenar os artefatos do Pipeline utilizando Modern Data Stac
 
 ## Infraestrutura
 
-- Setup do ambiente de desenvolvimento X
+- Setup do ambiente de desenvolvimento
 - Subir o Airbyte via docker
 - Subir o Airflow via docker
 - Subir o Metabase via docker
