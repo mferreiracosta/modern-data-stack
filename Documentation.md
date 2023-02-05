@@ -5,7 +5,7 @@ Repositório para armazenar os artefatos do pipeline utilizando AirByte + DBT + 
 
 ## Infraestrutura
 
-- Criação de um gmail para o projeto (https://accounts.google.com/signup)
+- Criar um gmail para o projeto (https://accounts.google.com/signup)
 
 - Setup do ambiente de desenvolvimento utilizando o Gitpod (https://gitpod.io)
 
