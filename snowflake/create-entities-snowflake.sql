@@ -1,9 +1,9 @@
 -- set variables (these need to be uppercase)
- set airbyte_role = 'AIRBYTE_ROLE';
- set airbyte_username = 'AIRBYTE_USER';
- set airbyte_warehouse = 'AIRBYTE_WAREHOUSE';
- set airbyte_database = 'AIRBYTE_DATABASE';
- set airbyte_schema = 'AIRBYTE_SCHEMA';
+ set airbyte_role = 'YOUR_ROLE';
+ set airbyte_username = 'YOUR_USER';
+ set airbyte_warehouse = 'YOUR_WAREHOUSE';
+ set airbyte_database = 'YOUR_DATABASE';
+ set airbyte_schema = 'YOUR_SCHEMA';
 
  -- set user password
  set airbyte_password = 'YOUR_PASSWORD';
